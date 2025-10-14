@@ -56,25 +56,23 @@ Kredit penuh tetap diberikan kepada **pembuat aslinya** atas kerja keras dan ide
 
 ## 🧠 Catatan Tambahan
 
-- Jangan mengklaim addon ini sebagai milikmu tanpa mencantumkan pembuat asli dan modifikator.  
-- Jika ingin memodifikasi ulang, sertakan pula nama **Yusufu** dan pembuat aslinya di README kamu.  
-- Pastikan untuk selalu menghargai karya orang lain. ❤️
+- Saya tidak mengklaim addon ini sebagai milik saya tanpa mencantumkan pembuat asli dan modifikator.  
+- Jika ingin memodifikasi ulang, sertakan pula nama **ELGESERZ** dan pembuat aslinya di README kamu.  
+- Saya selalu menghargai karya orang lain. ❤️
 
 ---
 
 
 ## 💬 Kontak & Kontribusi
 
-Jika kamu ingin membantu memperbaiki atau menambahkan addon lain ke koleksi ini, silakan buat *pull request* atau hubungi langsung Yusufu.  
+Jika kamu ingin membantu memperbaiki atau menambahkan addon lain ke koleksi ini, silakan buat *pull request* atau hubungi langsung masyusufwae.  
 Bersama-sama kita bisa menjaga agar addon lama tetap hidup dan kompatibel ✨
-
----
 
 **📌 Dibuat oleh & Dimodifikasi oleh:**  
 🧑‍💻 **ELGESERZ**  
 📅 Tahun: 2025  
 🎯 Tujuan: *Addon Preservation & Enhancement Project*
-📫 Kontak: (opsional, isi kalau kamu mau tambahkan media sosial atau GitHub)
+📫 Kontak: github masyusufwae
 
 
 
