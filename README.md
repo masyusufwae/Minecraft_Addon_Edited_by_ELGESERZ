@@ -118,7 +118,7 @@ silakan buat *pull request* atau hubungi langsung **masyusufwae**.
 
 Bersama-sama kita bisa menjaga agar addon lama tetap hidup dan kompatibel.
 
----
+----
 
 **📌 Dibuat oleh & Dimodifikasi oleh :**
 🧑‍💻 **ELGESERZ**
@@ -126,4 +126,4 @@ Bersama-sama kita bisa menjaga agar addon lama tetap hidup dan kompatibel.
 📍 Tujuan: *Pembelajaran, Eksperimen, dan Preservasi Addon Minecraft*
 📫 Kontak: **github masyusufwae**
 
----
+----
