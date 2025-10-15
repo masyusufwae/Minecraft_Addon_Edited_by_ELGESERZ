@@ -39,7 +39,7 @@ Tujuan utama proyek ini adalah **pelestarian dan pengembangan ulang addon lawas*
 ## 🧱 Struktur Rilis
 
 Setiap rilis berisi satu atau lebih addon dalam format:
-📁 Yusufu_Addons/
+📁 ELGESERZ_Addons/
 ├── Addon_Name/
 │ ├── behavior_packs/
 │ └── resource_packs/
