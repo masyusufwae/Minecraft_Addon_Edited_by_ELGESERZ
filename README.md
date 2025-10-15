@@ -27,6 +27,8 @@ Setiap addon yang ada di dalam *release* memiliki folder dan README kecil tersen
 * Perubahan atau pembaruan yang dilakukan
 * Versi Minecraft yang disesuaikan
 
+  Saya juga mengupload beberapa addon agar tidak hilang dari penyimpanan perangkat saya, sekaligus sebagai arsip dan referensi belajar pribadi.
+
 ---
 
 ## 🧱 Struktur Rilis
