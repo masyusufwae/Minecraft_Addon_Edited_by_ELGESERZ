@@ -121,9 +121,9 @@ Bersama-sama kita bisa menjaga agar addon lama tetap hidup dan kompatibel.
 ----
 
 **📌 Dibuat oleh & Dimodifikasi oleh :**
-🧑‍💻 **ELGESERZ**
-📅 Tahun: 2025
-📍 Tujuan: *Pembelajaran, Eksperimen, dan Preservasi Addon Minecraft*
+🧑‍💻 **ELGESERZ**  
+📅 Tahun: 2025  
+📍 Tujuan: *Pembelajaran, Eksperimen, dan Preservasi Addon Minecraft*  
 📫 Kontak: **github masyusufwae**
 
 ----
