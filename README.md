@@ -109,6 +109,15 @@ Tanpa kalian, para kreator asli, saya tidak akan bisa belajar, bereksperimen, da
 * Saya tidak mengklaim addon ini sebagai milik saya tanpa mencantumkan pembuat asli dan modifikator.
 * Jika ingin memodifikasi ulang, sertakan pula nama **ELGESERZ** dan pembuat aslinya didalam README.
 * Saya selalu menghargai karya orang lain. ❤️
+- Addon ini dapat diunduh oleh siapa pun **untuk seru-seruan dan eksplorasi pribadi.**  
+- Tidak disarankan untuk digunakan dalam proyek komersial.  
+- Struktur file di dalamnya bisa kamu pelajari untuk memahami cara kerja addon Minecraft (Behavior Pack dan Resource Pack).
+- Setelah diunduh pastikan **( .zip diganti dengan .mcaddon)** dan bisa juga di extrak all kalau ingin lihat isinya.
+- Jika memakai hp pakai Zarchiver (disarankan), caranya klik atau tahan bagian file yang telah diunduh tadi, Kemudian klik Ekstrak disini. Lalu kalau pakai PC/Laptop klik kanan, pilih eksrak all.
+- Cara pasang ke Minecraftnya, Di HP pakai Zarchiver **klik file yang sudah di ganti dari .zip menjadi .mcaddon**, pilih tombol panah di bagian kanan, lalu pilih buka dengan "Minecraft", sudah nanti otomatis pindah ke aplikasi minecraftnya. Lalu ketika pakai pc hanya di klik dua kali pada file .mcaddon nya, otomatis pindah ke minecraftnya.
+-  Cara pasang didalam minecraftnya, buat dunia baru, cari paket sumber daya dan paket perilaku, aktifkan addon yang kalian pasang tadi, pastikan kalian mengaktifkan **Fitur Eksperimen** saya mewajibkan aktifkan semua *(kalau tidak bisa saja fitur addonnya terbatas ini hanya opini dari saya)*, lalu buat dunia. Selamat bersenang senang
+
+---
 
 ---
 
