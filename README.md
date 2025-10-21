@@ -25,8 +25,6 @@ Setiap addon yang ada di dalam *release* memiliki folder dan README kecil tersen
 * Sumber asal (tautan unduhan, marketplace, atau forum)
 * Perubahan atau pembaruan yang dilakukan
 * Versi Minecraft yang disesuaikan
-* Saya juga mengupload beberapa addon agar **tidak hilang dari penyimpanan perangkat saya, sekaligus sebagai arsip dan referensi belajar pribadi,**
-saya juga akan memberi penjelasan ini modifikasi atau sebagai arsip.
 > Nama pembuat asli dan sumber asal selalu disebutkan di masing-masing file `README.md` di dalam tiap addon.
 ---
 
@@ -48,7 +46,6 @@ Setiap rilis berisi satu atau lebih addon dalam format:
 - Addon ini **tidak untuk diperjualbelikan**.  
 - Hanya untuk **tujuan pembelajaran, eksperimen, dan arsip pribadi**.
 - Addon ini **bukan dibuat dari nol**, melainkan hasil **pengeditan dari addon lain** yang telah dibagikan secara publik.
-- Kredit penuh tetap diberikan kepada **pembuat aslinya** atas \
 - Segala bentuk aset, ide, atau model asli tetap menjadi hak pencipta awalnya.  
 - Saya tidak mengeklaim ini milik Saya.
 - Saya sangat berterima kasih kepada pembuat addon ini, kalau tidak ada mungkin saya tidak tahu tentang struktur addon.
@@ -64,9 +61,7 @@ Addon-addon tersebut telah dibagikan secara publik dan diambil hanya untuk **tuj
 
 ---
 
-## ⚙️ Tujuan & Batasan Penggunaan
-
-Proyek ini dibuat dengan tujuan:
+## ⚙️ Proyek ini dibuat dengan tujuan:
 
 1. **Eksperimen & Uji Coba Teknis** — mempelajari struktur addon, perilaku entity, dan sistem animasi Minecraft.
 2. **Tujuan Edukasi & Penelitian Pribadi** — tidak untuk diperjualbelikan atau diklaim sebagai karya mandiri.
@@ -88,16 +83,14 @@ saya juga akan memberi penjelasan ini modifikasi atau sebagai arsip.
 > Dengan menggunakan addon ini, kamu menyetujui bahwa addon ini bukan hasil ciptaan penuh dari ELGESERZ, melainkan hasil kerja bersama antara pembuat asli dan editor yang memperbarui.
 > Dokumen ini menjelaskan hak cipta, penggunaan, dan penghargaan untuk seluruh addon yang terdapat di dalam proyek ini.
 
-
 ---
 
 ## ❤️ Ucapan Terima Kasih dari Saya **ELGESERZ**
 
-Terima kasih sebesar-besarnya kepada para pembuat addon Minecraft di komunitas internasional maupun lokal,
+>Terima kasih sebesar-besarnya kepada para pembuat addon Minecraft di komunitas internasional maupun lokal,
 yang telah membagikan karyanya secara publik dan memungkinkan proyek seperti ini berkembang.
-
-Tanpa kalian, para kreator asli, saya tidak akan bisa belajar, bereksperimen, dan memahami bagaimana sistem Minecraft bekerja.
-> “Semua karya besar selalu dimulai dari rasa penasaran kecil.”  
+>Tanpa kalian, para kreator asli, saya tidak akan bisa belajar, bereksperimen, dan memahami bagaimana sistem Minecraft bekerja.
+> **“Semua karya besar selalu dimulai dari rasa penasaran kecil.”**
 
 ---
 
@@ -108,9 +101,9 @@ Tanpa kalian, para kreator asli, saya tidak akan bisa belajar, bereksperimen, da
 - Saya selalu menghargai karya orang lain. ❤️
 
 ## Cara Memasang Addon 
-- Addon ini dapat diunduh oleh siapa pun **untuk seru-seruan dan eksplorasi pribadi.**  
-- Tidak disarankan untuk digunakan dalam proyek komersial.  
-- Struktur file di dalamnya bisa kamu pelajari untuk memahami cara kerja addon Minecraft (Behavior Pack dan Resource Pack).
+> Addon ini dapat diunduh oleh siapa pun **untuk seru-seruan dan eksplorasi pribadi.**  
+> Tidak disarankan untuk digunakan dalam proyek komersial.  
+> Struktur file di dalamnya bisa kamu pelajari untuk memahami cara kerja addon Minecraft (Behavior Pack dan Resource Pack).
 - Setelah diunduh pastikan **( .zip diganti dengan .mcaddon)** dan bisa juga di extrak all kalau ingin lihat isinya.
 - Jika memakai hp pakai Zarchiver (disarankan), caranya klik atau tahan bagian file yang telah diunduh tadi, Kemudian klik Ekstrak disini. Lalu kalau pakai PC/Laptop klik kanan, pilih eksrak all.
 - Cara pasang ke Minecraftnya, Di HP pakai Zarchiver **klik file yang sudah di ganti dari .zip menjadi .mcaddon**, pilih tombol panah di bagian kanan, lalu pilih buka dengan "Minecraft", sudah nanti otomatis pindah ke aplikasi minecraftnya. Lalu ketika pakai pc hanya di klik dua kali pada file .mcaddon nya, otomatis pindah ke minecraftnya.
